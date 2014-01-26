@@ -44,10 +44,10 @@
     <color name="background_dialer_list_items">#eeeeee</color>
 
     <!-- Background color where keypad digits are displayed -->
-    <color name="background_digits_dialpad">#f2020709</color>
+    <color name="background_digits_dialpad">#020709</color>
 
     <!-- Background color of new dialpad -->
-    <color name="background_dialpad">#f2020709</color>
+    <color name="background_dialpad">#020709</color>
 
     <!-- Primary color of dialpad text, including the call button -->
     <color name="dialpad_primary_text_color">#33b5e5</color>
